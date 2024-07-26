@@ -3,6 +3,8 @@
  	easing: 'slide'
  });
 
+
+
 (function($) {
 
 	"use strict";
@@ -15,6 +17,7 @@
     hideDistantElements: false,
     scrollProperty: 'scroll'
   });
+  
 
 
 	var fullHeight = function() {
